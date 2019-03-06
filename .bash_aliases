@@ -4,6 +4,7 @@ alias actualizar='sudo apt update -y && sudo apt upgrade -y && sudo apt dist-upg
 alias cdvar='cd /var'
 alias pgoogle='ping www.google.es'
 alias prouter='ping 192.168.1.1'
+alias prouter0='ping 192.168.0.1'
 alias h='history'
 alias reiniciar='sudo reboot'
 alias apagar='sudo poweoff'
